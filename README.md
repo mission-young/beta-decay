@@ -1,4 +1,2 @@
-HELLO WORLD
-你好
-hha
-hhhhhha
+beta_decay code
+1. 用cmake重新组织。
