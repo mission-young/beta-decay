@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/wuchenguang/work/yfs/beta_decay/map/main.cpp" "/home/wuchenguang/work/yfs/beta_decay/map/CMakeFiles/map.dir/main.cpp.o"
+  "/Users/yfs-imac-429/beta_decay/map/main.cpp" "/Users/yfs-imac-429/beta_decay/map/CMakeFiles/map.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/opt/ROOT/root61600/include"
+  "/usr/local/Cellar/root/include"
   "include"
   )
 
